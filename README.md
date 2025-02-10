@@ -1,6 +1,6 @@
 # Docker2-Base
 
-Equipo: Luis Lopez, Jairo Moreno
+Equipo: Luis Lopez, Jairo Moreno <br>
 Enlace al repositorio con los códigos: https://github.com/llopz/PC2-Docker2.git
 
 Los resultados se muestran en el formato "Lenguaje: 101ms". Para ejecutar el programa se deben introducir los siguientes comandos en la terminal:
